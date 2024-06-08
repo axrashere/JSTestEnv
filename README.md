@@ -1,0 +1,2 @@
+# JSTestEnv
+ node jest etc
